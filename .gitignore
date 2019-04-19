@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/VideoTagger/v16
+/packages
+/SystemWolfCommon/bin
+/SystemWolfCommon/obj
+*.user
+/VideoTaggerWPF/bin
+/VideoTaggerWPF/obj
+/VideoTaggerWPFTests/bin/Debug
+/VideoTaggerWPFTests/obj/Debug

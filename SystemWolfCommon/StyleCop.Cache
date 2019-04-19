@@ -1,0 +1,464 @@
+<stylecopresultscache>
+  <version>12</version>
+  <sourcecode name="BaseItemRunner.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2017/08/03 17:24:36.417</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="CompareFiles.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2017/05/05 15:41:09.834</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="FileDataStore.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2016/12/20 17:01:44.685</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IOHelper.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2016/12/17 10:47:46.765</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
+        <context>The class must have a documentation header.</context>
+        <line>7</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>22</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="HTML_Helper.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2017/06/30 18:35:11.801</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>26</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>68</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>83</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>84</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="ImageFileData.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2017/04/11 16:40:23.101</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>47</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>50</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>75</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the else statement must be wrapped in opening and closing curly brackets.</context>
+        <line>77</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>157</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="ImageFileDataHolder.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2016/08/16 17:39:49.517</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>30</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>33</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="iIO.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2016/08/16 17:41:05.472</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IItemRunner.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2016/08/16 17:38:33.572</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ITagOptions.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2016/11/30 17:34:39.800</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="DocumentationMustContainValidXml" ruleCheckId="SA1603">
+        <context>The documentation header is composed of invalid Xml: '&lt;' is an unexpected token. The expected token is '&gt;'. Line 3, position 10.</context>
+        <line>26</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2016/05/29 08:32:22.458</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ReadWriteFileHelper.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2017/06/30 18:35:11.812</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>67</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>81</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>93</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>103</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="TagHolder.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2017/06/30 18:35:11.874</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FileMayOnlyContainASingleClass" ruleCheckId="SA1402">
+        <context>A C# document may only contain a single class at the root level unless all of the classes are partial and are of the same type.</context>
+        <line>113</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="TextHelper.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2017/06/30 18:35:11.934</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>20</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-1666158935">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name=".NETFramework,Version=v4.5.2.AssemblyAttributes.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/06/30 18:35:21.547</styleCop>
+      <settingsFile>2017/06/30 18:35:21.353</settingsFile>
+      <sourceFile>2018/07/15 09:05:37.425</sourceFile>
+      <parser>2017/06/30 18:35:21.547</parser>
+      <StyleCop.CSharp.DocumentationRules>2017/06/30 18:35:21.547</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>979906901</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2017/06/30 18:35:21.547</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2017/06/30 18:35:21.547</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2017/06/30 18:35:21.547</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

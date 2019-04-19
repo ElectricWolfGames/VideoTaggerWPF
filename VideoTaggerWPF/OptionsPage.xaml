@@ -1,0 +1,27 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:VideoTaggerWPF"
+      xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="VideoTaggerWPF.OptionsPage"
+      mc:Ignorable="d"
+      d:DesignHeight="543" d:DesignWidth="718"
+      Title="OptionsPage">
+    <Page.Resources>
+        <ResourceDictionary>
+        </ResourceDictionary>
+    </Page.Resources>
+
+    <Grid x:Name="Grid" Background="{DynamicResource BackgroundKey}">
+        <Button x:Name="_butClose" Content="Close" HorizontalAlignment="Right" VerticalAlignment="Bottom" RenderTransformOrigin="1.41,2.182" Margin="0,0,10,10" Click="_butClose_Click" />
+        <CheckBox x:Name="_autoPlayNextVideo" Content="Auto play next video" HorizontalAlignment="Left" Margin="57,107,0,0" VerticalAlignment="Top" ToolTip="Automatically move on to the next video when the current video had finished." FontSize="14" />
+        <CheckBox x:Name="_addEmptyTag" Content ="Add NOTTAGGED tag to videos with out any other tags" HorizontalAlignment="Left" Margin="57,142,0,0" VerticalAlignment="Top" Width="429" ToolTip="Automatically add the NOTTAGGED tag to videos that do not have any tags set on them." FontSize="14" />
+        <CheckBox x:Name="_applyFileDate" Content="Start the file name with the date of the file (or keep the filename up to the first space)" HorizontalAlignment="Left" Margin="57,177,0,0" VerticalAlignment="Top" Width="611" FontSize="14" />
+        <TextBox x:Name="_dateFormat" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="date to use" VerticalAlignment="Top" Width="413" Margin="226,219,0,0" TextChanged="_dateFormat_TextChanged" VerticalContentAlignment="Center" FontSize="14" />
+        <Label x:Name="label" Content="Date format to use : " HorizontalAlignment="Left" Margin="90,219,0,0" VerticalAlignment="Top" Width="131" FontSize="14" />
+        <Label x:Name="_exmapleData" Content="example time" HorizontalAlignment="Left" Margin="423,254,0,0" VerticalAlignment="Top" Width="285" FontSize="14" />
+        <Label x:Name="label_Copy" Content="Current time example : " HorizontalAlignment="Left" Margin="226,254,0,0" VerticalAlignment="Top" Width="192" FontSize="14" />
+        <Label x:Name="label1" Content="Example of date format : yyyy-MM-dd_HH-mm-ss" HorizontalAlignment="Left" Margin="134,281,0,0" VerticalAlignment="Top" FontSize="14" />
+    </Grid>
+</Page>

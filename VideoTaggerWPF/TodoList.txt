@@ -1,0 +1,12 @@
+Video tagger to do list :
+
+Need to do before release:
++ Sort the tags by name - Done 
++ Options page 
+-	DONE: Auto play next video
+-	DONE: Use datetime format as the first part of the file name
++ DONE: Remove tag from list (add an red x to each tag name) 
+  The red x should be on the far right on the tag list.
+
+Nice to have:
++ Filter the current tags
